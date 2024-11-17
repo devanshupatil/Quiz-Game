@@ -100,7 +100,7 @@ The quiz is currently available in Marathi (मराठी). Contributions for 
 
 ## 📞 Contact
 
-- Project Link: [https://github.com/devanshupatil/Quizs](https://github.com/yourusername/wisdom-quiz)
+- Project Link: [https://github.com/devanshupatil/Quiz-Game](https://github.com/yourusername/wisdom-quiz)
 - Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 - Email - devanshupatil692@gmail.com
 
