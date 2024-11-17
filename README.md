@@ -101,7 +101,7 @@ The quiz is currently available in Marathi (मराठी). Contributions for 
 ## 📞 Contact
 
 - Project Link: [https://github.com/devanshupatil/Quiz-Game](https://github.com/devanshupatil/Quiz-Game)
-- Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+- Your Name - [@devanshu_96K](https://www.instagram.com/devanshu_96k/)
 - Email - devanshupatil692@gmail.com
 
 ## 📝 Changelog
