@@ -267,6 +267,7 @@
         </form>
 
         <div id="result"></div>
+        <p>Page Views: <span id="view-count">0</span></p>
     </div>
 
     <script>
@@ -310,6 +311,17 @@
             resultDiv.textContent = message;
             resultDiv.scrollIntoView({ behavior: 'smooth' });
         });
+
+    
+        // Simulate view count increment
+        document.addEventListener('DOMContentLoaded', () => {
+            const viewCountElement = document.getElementById('view-count');
+            let viewCount = parseInt(localStorage.getItem('viewCount')) || 0;
+            viewCount++;
+            localStorage.setItem('viewCount', viewCount);
+            viewCountElement.textContent = viewCount;
+        });
+    
     </script>
 </body>
 </html>
